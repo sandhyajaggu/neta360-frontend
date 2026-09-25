@@ -1,0 +1,364 @@
+{
+  "nav_home": "Home",
+  "nav_features": "Features",
+  "nav_modules": "Modules",
+  "nav_who": "Who it's for",
+  "nav_pricing": "Pricing",
+  "nav_contact": "Contact",
+  "login": "Login",
+  "demo": "Book a demo",
+  "hero_title": "Your entire constituency<br>in one app",
+  "tags": [
+    "People",
+    "Voters",
+    "Booths",
+    "Karyakartas",
+    "Issues",
+    "Events"
+  ],
+  "hero_desc": "For closer ties with people, a stronger cadre, faster decisions and complete governance,<br><b>Neta360</b> is your dedicated digital assistant.",
+  "free_demo": "Book a free demo",
+  "watch": "Watch video",
+  "chips": [
+    [
+      "Know your people",
+      "Detailed voter & family information"
+    ],
+    [
+      "Strengthen booths",
+      "Booth-wise performance & karyakartas"
+    ],
+    [
+      "Stay connected with cadre",
+      "Coordination, tasks, performance tracking"
+    ],
+    [
+      "Resolve issues",
+      "Grievances, complaints, feedback"
+    ]
+  ],
+  "modules_title": "core modules",
+  "mods": [
+    [
+      "People",
+      "Complete citizen & family information"
+    ],
+    [
+      "Voters",
+      "Detailed voter data, categories & tracking"
+    ],
+    [
+      "Booths",
+      "Booth details, committees, performance analysis"
+    ],
+    [
+      "Karyakartas",
+      "Cadre, volunteers, tasks & tracking"
+    ],
+    [
+      "Issues",
+      "Grievances, complaints, resolution tracking"
+    ],
+    [
+      "Events",
+      "Events, meetings, attendance & follow-up"
+    ],
+    [
+      "Development",
+      "Development works, schemes, progress monitoring"
+    ]
+  ],
+  "side": [
+    "Dashboard",
+    "People",
+    "Voters",
+    "Booths",
+    "Karyakartas",
+    "Issues",
+    "Events",
+    "Dev. works",
+    "Schemes",
+    "Reports",
+    "Notifications",
+    "Settings"
+  ],
+  "kpis": [
+    "Total voters",
+    "Total families",
+    "Total booths",
+    "Karyakartas"
+  ],
+  "vs": "vs last month",
+  "d_cat": "Voters by category",
+  "d_total": "Total voters",
+  "d_booth": "Booth status",
+  "d_strong": "Strong booths",
+  "d_new": "New voters this month",
+  "d_dev": "Development works",
+  "d_prog": "Overall progress",
+  "lgd": [
+    "Supporters",
+    "Neutral",
+    "Others"
+  ],
+  "bl": [
+    "Strong",
+    "Moderate",
+    "Weak",
+    "Critical"
+  ],
+  "dev": [
+    "Completed",
+    "In progress",
+    "Pending",
+    "Total works"
+  ],
+  "tiles": [
+    "People",
+    "Booths",
+    "Karyakartas",
+    "Issues",
+    "Events",
+    "Development"
+  ],
+  "p_quick": "Quick overview",
+  "ql": [
+    "Total voters",
+    "Total families",
+    "Pending issues",
+    "Events this month"
+  ],
+  "ben_title": "benefits for you",
+  "bens": [
+    [
+      "One platform",
+      "From people to development, all in one app"
+    ],
+    [
+      "Faster decisions",
+      "Quick decisions with real-time data & insights"
+    ],
+    [
+      "Better communication",
+      "WhatsApp, SMS, calls, announcements & alerts"
+    ],
+    [
+      "Improved performance",
+      "Track cadre and booth performance"
+    ],
+    [
+      "Full transparency",
+      "Transparent progress of works & scheme delivery"
+    ]
+  ],
+  "who_title": "Who can use it?",
+  "who": [
+    "MLA / MP",
+    "Political parties",
+    "Candidates",
+    "Constituency offices",
+    "Campaign teams"
+  ],
+  "stats_title": "Numbers you can trust – a stronger constituency",
+  "stats": [
+    "Happy users",
+    "Secure data",
+    "Support",
+    "Uptime assurance"
+  ],
+  "cta_title": "Start using <span class='brand'>Neta<b>360</b></span> today",
+  "cta_sub": "Take your constituency digital and stay closer to your people.",
+  "m_title": "Book a free demo",
+  "m_sub": "Share your details and our team will call you.",
+  "m_name": "Name",
+  "m_phone": "Mobile number",
+  "m_cons": "Constituency",
+  "m_role": "You are",
+  "m_send": "Send demo request",
+  "roles": [
+    "MLA / MP",
+    "Political party",
+    "Candidate",
+    "Constituency office",
+    "Campaign team"
+  ],
+  "e_name": "Enter your name",
+  "e_phone": "Enter a 10-digit mobile number",
+  "m_done": "Demo request sent",
+  "m_done_sub": "Our team will call you within 24 hours.",
+  "m_close": "Close",
+  "m_whatsapp": "Also send on WhatsApp",
+  "login_toast": "The login page isn't part of this demo",
+  "video_toast": "The demo video is coming soon",
+  "e_submit": "Couldn't send the request. Please try again.",
+  "sending": "Sending…",
+  "c_eyebrow": "Contact us",
+  "c_title": "Let’s talk about your constituency.",
+  "c_title_alt": "మీ నియోజకవర్గం గురించి మాట్లాడుకుందాం.",
+  "c_lead": "Whether you run a legislator’s office, a party unit or a campaign team, our team will walk you through Neta360 in English or Telugu.",
+  "c_call": "Call us",
+  "c_whatsapp": "WhatsApp",
+  "c_email": "Email",
+  "c_office": "Office",
+  "c_form_title": "Send us a message",
+  "c_form_sub": "We reply within 24 hours.",
+  "c_desks": [
+    "Book a demo",
+    "Support",
+    "Partnership",
+    "Media"
+  ],
+  "c_name": "Full name",
+  "c_name_ph": "Your name",
+  "c_role": "You are",
+  "c_roles": [
+    "MLA / MLC office",
+    "MP office",
+    "Party office",
+    "Campaign team",
+    "Something else"
+  ],
+  "c_phone": "Mobile number",
+  "c_mail": "Email",
+  "c_state": "State",
+  "c_states": [
+    "Telangana",
+    "Andhra Pradesh",
+    "Other"
+  ],
+  "c_cons": "Constituency",
+  "c_cons_ph": "Assembly / Lok Sabha seat",
+  "c_msg": "How can we help?",
+  "c_msg_ph": "Tell us what you’d like to see",
+  "c_consent": "I agree to be contacted by the Neta360 team about this request.",
+  "c_send": "Send message",
+  "c_done": "Message sent",
+  "c_done_sub": "Thank you. Our team will get back to you within 24 hours.",
+  "c_again": "Send another message",
+  "e_email": "Enter a valid email address",
+  "e_consent": "Please tick this box so we can contact you",
+  "c2_eyebrow": "Contact · సంప్రదించండి",
+  "c2_title": "Reach the right Neta360 team, first time.",
+  "c2_sub": "Pick the desk that fits your question. Every desk takes calls in English and Telugu.",
+  "c2_desks": [
+    [
+      "Demo & sales",
+      "See the constituency dashboard, grievance tracking and voter outreach tools.",
+      "Book a demo"
+    ],
+    [
+      "Customer support",
+      "Already using Neta360? Get help with logins, data imports or field-team access.",
+      "Open a ticket"
+    ],
+    [
+      "Partnerships",
+      "Survey agencies, data partners and resellers across Telangana and Andhra Pradesh.",
+      "Start a conversation"
+    ],
+    [
+      "Media",
+      "Press queries, interviews and brand assets for journalists.",
+      "Press kit"
+    ]
+  ],
+  "cs_chip": "Contact us · సంప్రదించండి",
+  "cs_title": [
+    "Your constituency is",
+    "just one call away."
+  ],
+  "cs_lead": "Demo, support or partnership — whatever you need, the Neta360 team helps you in Telugu and English.",
+  "cs_points": [
+    "Telugu & English",
+    "Reply within 24 hours"
+  ],
+  "cs_cards": [
+    "Call us",
+    "WhatsApp",
+    "Email",
+    "Visit our office"
+  ],
+  "cs_name_ph": "Your full name",
+  "cs_cons_ph": "e.g. Serilingampally",
+  "cs_msg": "Message",
+  "cs_submit": "Book a demo",
+  "cs_note": "Your details are safe. No spam calls.",
+  "faq_title": "Frequently asked questions",
+  "faq": [
+    [
+      "How long does a demo take?",
+      "About 30 minutes — we show it live, based on your constituency's needs."
+    ],
+    [
+      "Is the app available in Telugu?",
+      "Yes. Every screen of Neta360 works in Telugu and English, and you can switch any time."
+    ],
+    [
+      "Is our voter data safe?",
+      "Your data is visible only to your office. Each team member sees only what their role allows."
+    ],
+    [
+      "How is pricing decided?",
+      "Pricing depends on your constituency size and the modules you need. Book a demo and we'll share a quote."
+    ]
+  ],
+  "w_title": [
+    "Skip the form.",
+    "WhatsApp",
+    "",
+    "us instead."
+  ],
+  "w_lead": "Send us your constituency name — the Neta360 team will send you a demo link directly.",
+  "w_btn": "Chat on WhatsApp",
+  "w_scan": "Scan with your phone",
+  "w_prefill": "Hi Neta360, I'd like a demo. My constituency: ",
+  "cb_title": "Or, we'll call you",
+  "cb_alt": "కాల్ బ్యాక్ కోరండి",
+  "cb_phone": "Mobile",
+  "cb_when": "When should we call?",
+  "cb_slots": [
+    "Right now",
+    "Morning 10–12",
+    "Afternoon 2–5",
+    "Evening 5–8"
+  ],
+  "cb_send": "Request a callback",
+  "cb_done": "Callback requested",
+  "cb_done_sub": "Our team will call you at the time you chose.",
+  "chat": {
+    "team": "Neta360 Team",
+    "online": "online",
+    "bot1": "Hello! Welcome to Neta360. Please tell us your constituency name.",
+    "user": "Serilingampally — from the MLA office",
+    "bot2": "Thank you! We'll set up a demo for you. Which of these times works?",
+    "replies": [
+      "This evening",
+      "Tomorrow morning"
+    ],
+    "input": "Type a message"
+  },
+  "bk_eyebrow": "Book a demo · డెమో బుక్ చేయండి",
+  "bk_title": "Pick a time that suits you",
+  "bk_steps": [
+    "1. Date",
+    "2. Time",
+    "3. Your details"
+  ],
+  "bk_your": "Your booking",
+  "bk_mode": "Video call or office visit",
+  "bk_lang": "Telugu / English",
+  "bk_confirm": "Confirm demo",
+  "bk_help_title": "Can't find a suitable time?",
+  "bk_help": [
+    "Call us directly at",
+    "or email"
+  ],
+  "bk_done": "Demo booked",
+  "bk_done_sub": "We'll call you to confirm this slot.",
+  "bk_again": "Book another slot",
+  "demo_duration": "30 minutes",
+  "office_names": [
+    "National Office",
+    "Corporate Head Office"
+  ]
+}
