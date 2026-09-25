@@ -179,7 +179,7 @@ header{position:sticky;top:0;z-index:50;background:rgba(255,255,255,.97);backdro
 
 /* ============ CTA + FOOTER ============ */
 .cta{position:relative;padding-top:84px;margin-top:10px;display:flex;justify-content:center}
-.cta-box{position:relative;z-index:2;width:calc(100% - 40px);background:var(--g800);color:#fff;border-radius:14px 14px 0 0;padding:24px 40px;display:flex;align-items:center;justify-content:space-between;gap:16px 28px}
+.cta-box{position:relative;z-index:2;width:min(1080px,calc(100% - 40px));background:var(--g800);color:#fff;border-radius:14px 14px 0 0;padding:24px 40px;display:flex;align-items:center;justify-content:space-between;gap:16px 28px}
 .cta h2{font-size:clamp(18px,1.9vw,23px);line-height:1.4;font-weight:700}
 .cta h2 .brand{color:#fff}
 .cta p{opacity:.92;font-size:13.5px}
