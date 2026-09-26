@@ -254,7 +254,7 @@ footer{background:#1d6b35;color:#fff;font-size:14.5px}
 .ci-office h4{font-family:"Noto Sans Telugu",Poppins,sans-serif;font-size:13.5px;font-weight:700;line-height:1.3;color:var(--tone)}
 .ci-office small{display:block;font-family:Poppins,sans-serif;font-size:11px;font-weight:600;color:var(--tone)}
 .ci-city{font-family:Poppins,sans-serif;font-size:10.5px;font-weight:600;color:var(--tone);background:var(--chip);border-radius:999px;padding:2px 8px;white-space:nowrap}
-.ci-address{grid-column:2/4;display:flex;gap:6px;margin-top:3px;font-family:Poppins,sans-serif;font-size:11.5px;line-height:1.45;color:var(--ct-text)}
+.ci-address{grid-column:2/4;display:flex;gap:6px;margin-top:3px;font-family:Poppins,"Noto Sans Telugu",sans-serif;font-size:11.5px;line-height:1.45;color:var(--ct-text)}
 .ci-address svg{font-size:13px;margin-top:1px;color:var(--tone)}
 .ci-address svg path{fill:currentColor;stroke:none}
 .ci-address svg circle{fill:#fff;stroke:none}

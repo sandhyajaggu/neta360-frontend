@@ -22,7 +22,7 @@ function officeOpenNow() {
 
 // Left side of the Contact page: heading, call/WhatsApp/email, both offices and office timings.
 export default function ContactInfo() {
-  const { t } = useLang();
+  const { t, lang } = useLang();
   const open = officeOpenNow();
 
   const channels = [
@@ -80,7 +80,8 @@ export default function ContactInfo() {
               <span className="ci-city">{CONTACT.officeCities[i]}</span>
               <p className="ci-address">
                 <Ico name="pin" />
-                <span>{address}</span>
+                {/* Telugu page shows the Telugu address; the Maps link always uses the English one. */}
+                <span>{lang === "te" ? t("office_addresses")[i] : address}</span>
               </p>
             </a>
           ))}
