@@ -26,7 +26,7 @@ const LABELS = {
 };
 
 // Full names for the page language codes, so emails and WhatsApp messages don't show "te"/"en".
-const LANGUAGE_NAMES = { te: "Telugu", en: "English" };
+const LANGUAGE_NAMES = { te: "తెలుగు", en: "English" };
 
 // Turns a payload into { Label: value } in a fixed order, skipping empty fields.
 function labelled(payload) {
