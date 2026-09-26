@@ -25,11 +25,15 @@ const LABELS = {
   language: "Language",
 };
 
+// Full names for the page language codes, so emails and WhatsApp messages don't show "te"/"en".
+const LANGUAGE_NAMES = { telugu: "Telugu", english: "English" };
+
 // Turns a payload into { Label: value } in a fixed order, skipping empty fields.
 function labelled(payload) {
   const fields = {};
   for (const [key, label] of Object.entries(LABELS)) {
-    if (payload[key]) fields[label] = payload[key];
+    if (!payload[key]) continue;
+    fields[label] = key === "language" ? LANGUAGE_NAMES[payload[key]] || payload[key] : payload[key];
   }
   return fields;
 }
