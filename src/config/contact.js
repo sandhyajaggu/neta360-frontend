@@ -2,9 +2,9 @@
 export const CONTACT = {
   website: "www.neta360.in",
   email: "support@neta360.in",
-  phone: "+91 99888 12345",
-  phoneHref: "tel:+919988812345",
-  whatsappHref: "https://wa.me/919988812345",
+  phone: "+91 96425 59099",
+  phoneHref: "tel:+919642559099",
+  whatsappHref: "https://wa.me/919642559099",
   // Office addresses; their names are "office_names" in the i18n files, in the same order.
   offices: [
     "5th floor, Wing-A, Statesman House, Barakhamba Rd, Barakhamba, New Delhi, Delhi 110001",
