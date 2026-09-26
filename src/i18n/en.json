@@ -194,20 +194,7 @@
   "sending": "Sending…",
   "c_eyebrow": "Contact us",
   "c_title": "Let’s talk about your constituency.",
-  "c_title_alt": "మీ నియోజకవర్గం గురించి మాట్లాడుకుందాం.",
   "c_lead": "Whether you run a legislator’s office, a party unit or a campaign team, our team will walk you through Neta360 in English or Telugu.",
-  "c_call": "Call us",
-  "c_whatsapp": "WhatsApp",
-  "c_email": "Email",
-  "c_office": "Office",
-  "c_form_title": "Send us a message",
-  "c_form_sub": "We reply within 24 hours.",
-  "c_desks": [
-    "Book a demo",
-    "Support",
-    "Partnership",
-    "Media"
-  ],
   "c_name": "Full name",
   "c_name_ph": "Your name",
   "c_role": "You are",
@@ -219,146 +206,124 @@
     "Something else"
   ],
   "c_phone": "Mobile number",
-  "c_mail": "Email",
-  "c_state": "State",
-  "c_states": [
-    "Telangana",
-    "Andhra Pradesh",
-    "Other"
-  ],
   "c_cons": "Constituency",
-  "c_cons_ph": "Assembly / Lok Sabha seat",
   "c_msg": "How can we help?",
   "c_msg_ph": "Tell us what you’d like to see",
   "c_consent": "I agree to be contacted by the Neta360 team about this request.",
-  "c_send": "Send message",
-  "c_done": "Message sent",
-  "c_done_sub": "Thank you. Our team will get back to you within 24 hours.",
-  "c_again": "Send another message",
   "e_email": "Enter a valid email address",
   "e_consent": "Please tick this box so we can contact you",
-  "c2_eyebrow": "Contact · సంప్రదించండి",
-  "c2_title": "Reach the right Neta360 team, first time.",
-  "c2_sub": "Pick the desk that fits your question. Every desk takes calls in English and Telugu.",
-  "c2_desks": [
+  "r_channels": [
     [
-      "Demo & sales",
-      "See the constituency dashboard, grievance tracking and voter outreach tools.",
-      "Book a demo"
+      "Call Us",
+      "Talk to our team"
     ],
     [
-      "Customer support",
-      "Already using Neta360? Get help with logins, data imports or field-team access.",
-      "Open a ticket"
+      "WhatsApp",
+      "Chat with us"
     ],
     [
-      "Partnerships",
-      "Survey agencies, data partners and resellers across Telangana and Andhra Pradesh.",
-      "Start a conversation"
-    ],
-    [
-      "Media",
-      "Press queries, interviews and brand assets for journalists.",
-      "Press kit"
+      "Email",
+      "Drop us an email"
     ]
   ],
-  "cs_chip": "Contact us · సంప్రదించండి",
-  "cs_title": [
-    "Your constituency is",
-    "just one call away."
+  "r_offices_title": "Visit Our Offices",
+  "r_offices_sub": "Our office addresses",
+  "office_subs": [
+    "Head Office (Delhi)",
+    "Corporate Office (Hyderabad)"
   ],
-  "cs_lead": "Demo, support or partnership — whatever you need, the Neta360 team helps you in Telugu and English.",
-  "cs_points": [
-    "Telugu & English",
-    "Reply within 24 hours"
-  ],
-  "cs_cards": [
-    "Call us",
-    "WhatsApp",
-    "Email",
-    "Visit our office"
-  ],
-  "cs_name_ph": "Your full name",
-  "cs_cons_ph": "e.g. Serilingampally",
-  "cs_msg": "Message",
-  "cs_submit": "Book a demo",
-  "cs_note": "Your details are safe. No spam calls.",
-  "faq_title": "Frequently asked questions",
-  "faq": [
-    [
-      "How long does a demo take?",
-      "About 30 minutes — we show it live, based on your constituency's needs."
-    ],
-    [
-      "Is the app available in Telugu?",
-      "Yes. Every screen of Neta360 works in Telugu and English, and you can switch any time."
-    ],
-    [
-      "Is our voter data safe?",
-      "Your data is visible only to your office. Each team member sees only what their role allows."
-    ],
-    [
-      "How is pricing decided?",
-      "Pricing depends on your constituency size and the modules you need. Book a demo and we'll share a quote."
-    ]
-  ],
-  "w_title": [
-    "Skip the form.",
-    "WhatsApp",
-    "",
-    "us instead."
-  ],
-  "w_lead": "Send us your constituency name — the Neta360 team will send you a demo link directly.",
-  "w_btn": "Chat on WhatsApp",
-  "w_scan": "Scan with your phone",
-  "w_prefill": "Hi Neta360, I'd like a demo. My constituency: ",
-  "cb_title": "Or, we'll call you",
-  "cb_alt": "కాల్ బ్యాక్ కోరండి",
-  "cb_phone": "Mobile",
-  "cb_when": "When should we call?",
-  "cb_slots": [
-    "Right now",
-    "Morning 10–12",
-    "Afternoon 2–5",
-    "Evening 5–8"
-  ],
-  "cb_send": "Request a callback",
-  "cb_done": "Callback requested",
-  "cb_done_sub": "Our team will call you at the time you chose.",
-  "chat": {
-    "team": "Neta360 Team",
-    "online": "online",
-    "bot1": "Hello! Welcome to Neta360. Please tell us your constituency name.",
-    "user": "Serilingampally — from the MLA office",
-    "bot2": "Thank you! We'll set up a demo for you. Which of these times works?",
-    "replies": [
-      "This evening",
-      "Tomorrow morning"
-    ],
-    "input": "Type a message"
-  },
-  "bk_eyebrow": "Book a demo · డెమో బుక్ చేయండి",
-  "bk_title": "Pick a time that suits you",
-  "bk_steps": [
-    "1. Date",
-    "2. Time",
-    "3. Your details"
-  ],
-  "bk_your": "Your booking",
-  "bk_mode": "Video call or office visit",
-  "bk_lang": "Telugu / English",
-  "bk_confirm": "Confirm demo",
-  "bk_help_title": "Can't find a suitable time?",
-  "bk_help": [
-    "Call us directly at",
-    "or email"
-  ],
-  "bk_done": "Demo booked",
-  "bk_done_sub": "We'll call you to confirm this slot.",
-  "bk_again": "Book another slot",
-  "demo_duration": "30 minutes",
   "office_names": [
     "National Office",
     "Corporate Head Office"
-  ]
+  ],
+  "ci_timings": "Office Timings",
+  "ci_days": "Mon – Sat",
+  "ci_sunday": "Sunday closed",
+  "ci_open": "Open now",
+  "ci_closed": "Closed now",
+  "cf_steps": [
+    "Your details",
+    "How to reach you",
+    "Confirm"
+  ],
+  "cf_title1": "Tell us about you",
+  "cf_sub1": "Takes 30 seconds. We'll use this for whichever option you pick next.",
+  "cf_select": "Select",
+  "cf_state": "State / UT",
+  "cf_state_ph": "Select state",
+  "cf_popular": "Popular",
+  "cf_states": "States",
+  "cf_uts": "Union Territories",
+  "cf_district": "District",
+  "cf_district_ph": "Select district",
+  "cf_district_type": "Type your district",
+  "cf_cons": "Assembly constituency",
+  "cf_cons_ph": "Select constituency",
+  "cf_cons_type": "Type your constituency",
+  "cf_state_first": "Select state first",
+  "cf_other": "Other (type it)",
+  "cf_next": "Next →",
+  "cf_back": "← Back",
+  "cf_title2": "How should we reach you?",
+  "cf_sub2": "Pick one — the page changes to match.",
+  "cf_options": [
+    [
+      "Request a callback",
+      "Pick a date & time slot, our team calls you."
+    ],
+    [
+      "Chat on WhatsApp",
+      "Start a chat right now, details pre-filled."
+    ],
+    [
+      "Book a live demo",
+      "Video call or office visit, at a time you choose."
+    ],
+    [
+      "Send a message",
+      "Support, partnership or media enquiries."
+    ]
+  ],
+  "cf_cb_title": "Pick a callback slot",
+  "cf_cb_sub": "Choose a day and time — we'll call +91 {phone}.",
+  "cf_demo_title": "Book your live demo",
+  "cf_demo_sub": "Choose demo type, day and time.",
+  "cf_demo_type": "Demo type",
+  "cf_modes": [
+    "Video call",
+    "Office visit"
+  ],
+  "cf_date": "Date",
+  "cf_time": "Time slot",
+  "cf_when": "When",
+  "cf_confirm_cb": "Confirm callback",
+  "cf_confirm_demo": "Confirm demo",
+  "cf_wa_title": "Chat with us on WhatsApp",
+  "cf_wa_sub": "Your details are already typed in — just press send.",
+  "cf_wa_status": "typically replies in minutes",
+  "cf_wa_hello": "Namaskaram! 🙏 How can we help your constituency?",
+  "cf_wa_intro": "Hi Neta360, I'd like to know more.",
+  "cf_wa_qr": "On a computer? Scan the QR with your phone. On mobile, tap the button to open WhatsApp.",
+  "cf_wa_open": "Open WhatsApp chat",
+  "cf_msg_title": "Send us a message",
+  "cf_msg_sub": "We reply within 24 hours.",
+  "cf_topic": "Topic",
+  "cf_topics": [
+    "Support",
+    "Partnership",
+    "Media"
+  ],
+  "cf_email_opt": "Email (optional)",
+  "cf_send": "Send message",
+  "cf_done_cb": "Callback booked!",
+  "cf_done_cb_sub": "Our team will call you on {when}.",
+  "cf_done_demo": "Demo booked!",
+  "cf_done_demo_sub": "We'll send the details on WhatsApp.",
+  "cf_done_msg": "Message sent!",
+  "cf_restart": "Start again",
+  "e_role": "Please choose one",
+  "e_state": "Please choose your state",
+  "e_district": "Please choose your district",
+  "e_cons": "Please choose your constituency",
+  "e_msg": "Please write a short message"
 }
