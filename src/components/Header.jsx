@@ -8,7 +8,6 @@ const LINKS = [
   ["modules", "nav_features"],
   ["preview", "nav_modules"],
   ["who", "nav_who"],
-  ["stats", "nav_pricing"],
 ];
 const LANGS = [
   ["te", "తెలుగు"],
@@ -51,6 +50,9 @@ export default function Header({ page, onDemo, onToast }) {
               {t(key)}
             </a>
           ))}
+          <a href="#/pricing" className={page === "pricing" ? "active" : undefined}>
+            {t("nav_pricing")}
+          </a>
           <a href="#/contact" className={page === "contact" ? "active" : undefined}>
             {t("nav_contact")}
           </a>

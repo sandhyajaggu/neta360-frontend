@@ -325,5 +325,263 @@
   "e_state": "Please choose your state",
   "e_district": "Please choose your district",
   "e_cons": "Please choose your constituency",
-  "e_msg": "Please write a short message"
+  "e_msg": "Please write a short message",
+  "pricing": {
+    "tagline": "Your entire constituency in one app.",
+    "title": [
+      "Political CRM &",
+      "Constituency Management",
+      "Platform"
+    ],
+    "tag": [
+      "Smart",
+      "Connected",
+      "Data-Driven"
+    ],
+    "phone": "Your constituency in your hands",
+    "stats": [
+      [
+        "360°",
+        "360° Profile"
+      ],
+      [
+        "Voters",
+        "EPIC Verified"
+      ],
+      [
+        "Booths",
+        "Mapped"
+      ],
+      [
+        "Volunteers",
+        "Connected"
+      ],
+      [
+        "Grievances",
+        "Tracked"
+      ],
+      [
+        "Schemes",
+        "Monitored"
+      ],
+      [
+        "Campaigns",
+        "Managed"
+      ],
+      [
+        "AI",
+        "Powered"
+      ]
+    ],
+    "plans_title": "Packages & Pricing",
+    "plans_sub": "Flexible plans for every political leader, organization & party",
+    "per_year": "/ year",
+    "best_value": "BEST VALUE",
+    "quote_btn": "Get a quote →",
+    "plans": [
+      {
+        "name": "Basic",
+        "sub": "Ward / Profile",
+        "feats": [
+          "Basic CRM",
+          "Citizen data",
+          "Voter list",
+          "Booth mapping",
+          "Basic reports",
+          "Web access"
+        ],
+        "foot": "Best for Ward / Mandal level"
+      },
+      {
+        "name": "Professional",
+        "sub": "Assembly Constituency",
+        "feats": [
+          "Full CRM",
+          "Voter management",
+          "Volunteer management",
+          "Grievances",
+          "Schemes",
+          "Campaigns",
+          "Mobile app (1)",
+          "WhatsApp integration"
+        ],
+        "foot": "Most Popular"
+      },
+      {
+        "name": "Premium",
+        "sub": "MLA / Full Constituency",
+        "feats": [
+          "Advanced CRM",
+          "GIS mapping",
+          "Events & surveys",
+          "Call center",
+          "AI insights (basic)",
+          "Mobile apps (2)",
+          "Bulk communication",
+          "Advanced reports"
+        ],
+        "foot": "Best Value"
+      },
+      {
+        "name": "Enterprise",
+        "sub": "MP / Multi-Constituency",
+        "feats": [
+          "All Premium features",
+          "AI assistant",
+          "Sentiment analysis",
+          "Predictive analytics",
+          "Advanced GIS",
+          "Mobile apps (3)",
+          "Election analytics",
+          "Priority support"
+        ],
+        "foot": "For MP / Large Teams"
+      },
+      {
+        "name": "State / Party",
+        "sub": "Multi-State",
+        "feats": [
+          "Unlimited constituencies",
+          "Party organization",
+          "Advanced AI/ML",
+          "State dashboard",
+          "Custom integrations",
+          "Dedicated cloud",
+          "SLA support",
+          "Training & onboarding"
+        ],
+        "foot": "For Political Parties"
+      }
+    ],
+    "cmp_title": "Feature Comparison",
+    "cmp_features": "Features",
+    "cmp_rows": [
+      "Dashboard & Analytics",
+      "Citizen 360° Profile",
+      "Voter Management & EPIC",
+      "Constituency / Booth Mgmt",
+      "Volunteer Management",
+      "Grievance Management",
+      "Government Schemes",
+      "Development Works",
+      "Survey & Campaigns",
+      "Event Management",
+      "WhatsApp / SMS / Email",
+      "Call Center",
+      "GIS & Maps",
+      "Reports & Analytics",
+      "AI Features",
+      "Mobile Apps",
+      "Multi-Constituency",
+      "Multi-Language (EN / TEL)",
+      "Dedicated Support"
+    ],
+    "levels": {
+      "basic": "Basic",
+      "adv": "Advanced",
+      "web": "Web only",
+      "app1": "1 App",
+      "app2": "2 Apps",
+      "app3": "3 Apps",
+      "custom": "Custom",
+      "unlimited": "Unlimited",
+      "email": "Email",
+      "priority": "Priority",
+      "sla": "24×7 SLA"
+    },
+    "package": "Package",
+    "impl_title": "One-time Implementation Charges",
+    "impl_fee": "Implementation Fee",
+    "impl_note": "Includes: setup, configuration, data import, training & go-live support",
+    "inc_title": "Annual Subscription Includes",
+    "inc": [
+      "Software access (Web + Mobile)",
+      "Data backup & recovery",
+      "Regular updates & new features",
+      "Bug fixes & maintenance",
+      "Cloud hosting & security",
+      "User management",
+      "Email / Chat / Phone support",
+      "Reports & analytics",
+      "Basic training & documentation",
+      "Mobile app access"
+    ],
+    "amc_title": "AMC / Support Plans",
+    "amc_after": "(After 1st Year)",
+    "amc_fee": "Annual AMC",
+    "addons_title": "Usage & Add-on Charges",
+    "addons": [
+      [
+        "WhatsApp",
+        [
+          "Official API",
+          "**₹0.35 – ₹0.60** / msg",
+          "Template based",
+          "Bulk campaigns"
+        ]
+      ],
+      [
+        "SMS",
+        [
+          "Transactional: **₹0.10 – ₹0.15** / SMS",
+          "Promotional: **₹0.15 – ₹0.25** / SMS",
+          "Bulk packages available"
+        ]
+      ],
+      [
+        "GIS & Maps",
+        [
+          "Map API usage: **₹5,000 – ₹25,000** / year",
+          "Geo-tagged photos",
+          "Heat maps"
+        ]
+      ],
+      [
+        "AI & Analytics",
+        [
+          "AI API usage: **₹10,000 – ₹50,000** / year",
+          "Sentiment analysis",
+          "Predictive insights"
+        ]
+      ]
+    ],
+    "why_title": "Why Neta360 is Priced This Way?",
+    "why": [
+      "Enterprise-grade technology (AI, GIS, Mobile)",
+      "Secure cloud infrastructure & data encryption",
+      "Regular updates & new features",
+      "Dedicated support & training",
+      "Scalable for elections & year-round governance",
+      "Trusted by political leaders & organizations"
+    ],
+    "why_quote": "Invest once, manage your entire constituency, win trust forever.",
+    "terms_title": "Commercial Terms",
+    "terms": [
+      "All prices are in INR and exclusive of GST.",
+      "GST @ 18% will be charged extra.",
+      "Payment terms: 50% advance, 40% on UAT, 10% on go-live.",
+      "Subscription is valid for 12 months from go-live.",
+      "AMC is optional after 1st year.",
+      "Data import assistance included (as per scope).",
+      "Third-party charges (WhatsApp, SMS, Maps, AI) are extra.",
+      "Custom features will be quoted separately."
+    ],
+    "slogan": [
+      "Technology + Data + People =",
+      "Winning Constituencies"
+    ],
+    "slogan_btn": "Let’s Build a Smarter Tomorrow!",
+    "valid_title": "Proposal Validity",
+    "valid_days": "30 Days",
+    "reco_title": "Recommended Package",
+    "reco_name": "Professional / Premium",
+    "reco_sub": "Best for MLA Constituency",
+    "pillars": [
+      "Smart",
+      "Secure",
+      "Scalable"
+    ],
+    "contact": "Contact Us",
+    "scan": "Scan to know more"
+  }
 }

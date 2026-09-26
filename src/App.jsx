@@ -7,12 +7,18 @@ import WhoAndStats from "./components/WhoAndStats.jsx";
 import CtaBanner from "./components/CtaBanner.jsx";
 import Footer from "./components/Footer.jsx";
 import ContactPage from "./components/contact/ContactPage.jsx";
+import PricingPage from "./components/pricing/PricingPage.jsx";
 import DemoModal from "./components/DemoModal.jsx";
 import VideoModal from "./components/VideoModal.jsx";
 import Toast from "./components/Toast.jsx";
 
-// "#/contact" shows the Contact page; any other hash (e.g. "#modules") is a section of the home page.
-const pageFromHash = () => (window.location.hash.startsWith("#/contact") ? "contact" : "home");
+// "#/contact" and "#/pricing" are their own pages; any other hash (e.g. "#modules") is a section of the home page.
+function pageFromHash() {
+  const hash = window.location.hash;
+  if (hash.startsWith("#/contact")) return "contact";
+  if (hash.startsWith("#/pricing")) return "pricing";
+  return "home";
+}
 
 export default function App() {
   const [page, setPage] = useState(pageFromHash);
@@ -50,6 +56,10 @@ export default function App() {
       {page === "contact" ? (
         <main>
           <ContactPage />
+        </main>
+      ) : page === "pricing" ? (
+        <main>
+          <PricingPage onDemo={openDemo} />
         </main>
       ) : (
         <main>
